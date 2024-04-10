@@ -1,0 +1,6 @@
+Explicit|38..40|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||10..37|Inh|Null|Null|Null||41..95|Inh|Null|Null|Null|||||||38..40|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||97..129|Inh|Null|Null|Null||131..180|Inh|Null|Null|Null|||||||131|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||131..180|Inh|Null|Null|Null||181..209|Inh|Null|Null|Null|||||||181|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||181..209|Inh|Null|Null|Null||210..257|Inh|Null|Null|Null|||||||210|DEFAULT|
+Hypophora||||||||||||||307..348||||||441..505|||||||||||441|DEFAULT|
+Explicit|579..589|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||563..578|Inh|Null|Null|Null||590..610|Inh|Null|Null|Null|||||||579..589|DEFAULT|

@@ -1,0 +1,7 @@
+Explicit|80..82|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail|Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct|||||12..79|Inh|Null|Null|Null||91..216|Inh|Null|Null|Null|||||||80..82|DEFAULT|
+Explicit|83..89|Wr|Comm|Null|Null|||Comparison.Concession+SpeechAct.Arg2-as-denier+SpeechAct||||||12..79|Inh|Null|Null|Null||91..216|Inh|Null|Null|Null|||||||83..89|DEFAULT|
+Explicit|164..167|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||91..163|Inh|Null|Null|Null||169..216|Inh|Null|Null|Null|||||||164..167|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg1-as-denier||||||182..216|Inh|Null|Null|Null||217..246|Inh|Null|Null|Null|||||||217|DEFAULT|
+Implicit||Wr|Comm|Null|Null||later|Temporal.Asynchronous.Precedence||||||273..340|Inh|Null|Null|Null||341..409|Inh|Null|Null|Null|||||||341|DEFAULT|
+Explicit|410..413|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||341..409|Inh|Null|Null|Null||414..478|Inh|Null|Null|Null|||||||410..413|DEFAULT|
+Explicit|573..579|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg2-as-negcond||||||509..572|Inh|Null|Null|Null||580..603|Inh|Null|Null|Null|||||||573..579|DEFAULT|

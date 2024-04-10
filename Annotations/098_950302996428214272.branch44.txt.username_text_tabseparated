@@ -1,0 +1,3 @@
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||11..34|Inh|Null|Null|Null||35..72|Inh|Null|Null|Null|||||||35|DEFAULT|
+Explicit|323..325|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||348..441|Inh|Null|Null|Null||326..347|Inh|Null|Null|Null|||||||323..325|DEFAULT|
+Explicit|460..463|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||442..459|Inh|Null|Null|Null||464..510|Inh|Null|Null|Null|||||||460..463|DEFAULT|

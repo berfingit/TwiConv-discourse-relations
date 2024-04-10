@@ -1,0 +1,5 @@
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||18..49|Inh|Null|Null|Null||53..92|Inh|Null|Null|Null|||||||53|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||53..92|Inh|Null|Null|Null||159..218|Inh|Null|Null|Null|||||||159|DEFAULT|
+Explicit|178..182|Wr|Comm|Null|Null|||Temporal.Synchronous||||||159..177|Inh|Null|Null|Null||183..218|Inh|Null|Null|Null|||||||178..182|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||251..299|Inh|Null|Null|Null||300..347|Inh|Null|Null|Null|||||||300|DEFAULT|
+Hypophora||||||||||||||467..494||||||536..578|||||||||||536|DEFAULT|

@@ -1,0 +1,6 @@
+Explicit|11..13|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||28..59|Inh|Null|Null|Null||14..27|Inh|Null|Null|Null|||||||11..13|DEFAULT|
+Hypophora||||||||||||||96..141||||||174..289|||||||||||174|DEFAULT|
+Explicit|232..235|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||174..219|Inh|Null|Null|Null||236..289|Inh|Null|Null|Null|||||||232..235|DEFAULT|
+Hypophora||||||||||||||313..344||||||368..400|||||||||||368|DEFAULT|
+Explicit|701..704|Wr|Comm|Null|Null|||Expansion.Conjunction||||||673..700|Inh|Null|Null|Null||705..722|Inh|Null|Null|Null|||||||701..704|DEFAULT|
+Hypophora||||||||||||||673..722||||||746..772|||||||||||746|DEFAULT|

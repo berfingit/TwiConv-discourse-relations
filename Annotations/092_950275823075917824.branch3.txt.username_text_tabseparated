@@ -1,0 +1,29 @@
+Explicit|45..48|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||15..44|Inh|Null|Null|Null||49..75|Inh|Null|Null|Null|||||||45..48|DEFAULT|
+Explicit|220..227|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||108..219|Inh|Null|Null|Null||228..262|Inh|Null|Null|Null|||||||220..227|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||82..262|Inh|Null|Null|Null||263..295|Inh|Null|Null|Null|||||||263|DEFAULT|
+Explicit|353..356|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||317..352|Inh|Null|Null|Null||357..373|Inh|Null|Null|Null|||||||353..356|DEFAULT|
+Implicit||Wr|Comm|Null|Null||instead|Expansion.Substitution.Arg2-as-subst||||||296..401|Inh|Null|Null|Null||402..512|Inh|Null|Null|Null|||||||402|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||422..474|Inh|Null|Null|Null||475..492|Inh|Null|Null|Null|||||||475|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||475..492|Inh|Null|Null|Null||493..511|Inh|Null|Null|Null|||||||493|DEFAULT|
+Explicit|513..516|Wr|Comm|Null|Null|||Expansion.Conjunction||||||402..512|Inh|Null|Null|Null||517..567|Inh|Null|Null|Null|||||||513..516|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||596..693|Inh|Null|Null|Null||694..724|Inh|Null|Null|Null|||||||694|DEFAULT|
+Explicit|725..728|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||694..724|Inh|Null|Null|Null||729..851|Inh|Null|Null|Null|||||||725..728|DEFAULT|
+Explicit|867..870|Wr|Comm|Null|Null|||Expansion.Conjunction||||||729..851|Inh|Null|Null|Null||871..897|Inh|Null|Null|Null|||||||867..870|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||898..926|Inh|Null|Null|Null||927..949|Inh|Null|Null|Null|||||||927|DEFAULT|
+Explicit|950..953|Wr|Comm|Null|Null|||Expansion.Conjunction||||||927..949|Inh|Null|Null|Null||954..984|Inh|Null|Null|Null|||||||950..953|DEFAULT|
+Implicit||Wr|Comm|Null|Null||as|Contingency.Cause.Reason||||||954..984|Inh|Null|Null|Null||985..1044|Inh|Null|Null|Null|||||||985|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||1069..1129|Inh|Null|Null|Null||1130..1218|Inh|Null|Null|Null|||||||1130|DEFAULT|
+Implicit||Wr|Comm|Null|Null||after all|Contingency.Cause.Reason||||||1130..1218|Inh|Null|Null|Null||1219..1239|Inh|Null|Null|Null|||||||1219|DEFAULT|
+Explicit|1273..1275|Wr|Comm|Null|Null|||Expansion.Disjunction||||||1254..1272|Inh|Null|Null|Null||1276..1308|Inh|Null|Null|Null|||||||1273..1275|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||1241..1308|Inh|Null|Null|Null||1336..1368|Inh|Null|Null|Null|||||||1336|DEFAULT|
+Explicit|1424..1432|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1401..1423|Inh|Null|Null|Null||1433..1472|Inh|Null|Null|Null|||||||1424..1432|DEFAULT|
+Explicit|1473..1476|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||1401..1472|Inh|Null|Null|Null||1481..1497|Inh|Null|Null|Null|||||||1473..1476|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||1537..1562|Inh|Null|Null|Null||1563..1593|Inh|Null|Null|Null|||||||1563|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||1563..1593|Inh|Null|Null|Null||1594..1757|Inh|Null|Null|Null|||||||1594|DEFAULT|
+Explicit|1615..1619|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1594..1609|Inh|Null|Null|Null||1611..1614;1620..1679|Inh|Null|Null|Null|||||||1615..1619|DEFAULT|
+Explicit|1681..1686|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||1611..1680|Inh|Null|Null|Null||1687..1757|Inh|Null|Null|Null|||||||1681..1686|DEFAULT|
+Explicit|1823..1830|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1802..1822|Inh|Null|Null|Null||1831..1865|Inh|Null|Null|Null|||||||1823..1830|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||2101..2124|Inh|Null|Null|Null||2125..2171|Inh|Null|Null|Null|||||||2125|DEFAULT|
+Hypophora||||||||||||||2199..2206||||||2234..2295|||||||||||2234|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in order|Contingency.Purpose.Arg2-as-goal||||||2234..2266|Inh|Null|Null|Null||2267..2295|Inh|Null|Null|Null|||||||2267|DEFAULT|
+Explicit|2358..2361|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||2337..2357|Inh|Null|Null|Null||2362..2399|Inh|Null|Null|Null|||||||2358..2361|DEFAULT|

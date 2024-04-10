@@ -1,0 +1,2 @@
+Explicit|48..51|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||14..47|Inh|Null|Null|Null||52..56|Inh|Null|Null|Null|||||||48..51|DEFAULT|
+Implicit||Wr|Comm|Null|Null||accordingly|Expansion.Level-of-detail.Arg2-as-detail||||||203..226|Inh|Null|Null|Null||227..260|Inh|Null|Null|Null|||||||227|DEFAULT|

@@ -1,0 +1,8 @@
+Explicit|13..15|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||54..85|Inh|Null|Null|Null||16..53|Inh|Null|Null|Null|||||||13..15|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||13..85|Inh|Null|Null|Null||87..212|Inh|Null|Null|Null|||||||87|DEFAULT|
+Explicit|277..279|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||307..414|Inh|Null|Null|Null||280..307|Inh|Null|Null|Null|||||||277..279|DEFAULT|
+Explicit|377..382|Wr|Comm|Null|Null|||Expansion.Conjunction||||||351..376|Inh|Null|Null|Null||383..414|Inh|Null|Null|Null|||||||377..382|DEFAULT|
+Explicit|529..532|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||494..528|Inh|Null|Null|Null||533..607|Inh|Null|Null|Null|||||||529..532|DEFAULT|
+Implicit||Wr|Comm|Null|Null||although|Comparison.Concession.Arg2-as-denier||||||533..607|Inh|Null|Null|Null||608..641|Inh|Null|Null|Null|||||||608|DEFAULT|
+Hypophora||||||||||||||706..734||||||808..843|||||||||||808|DEFAULT|
+Hypophora||||||||||||||917..947||||||1034..1079|||||||||||1034|DEFAULT|

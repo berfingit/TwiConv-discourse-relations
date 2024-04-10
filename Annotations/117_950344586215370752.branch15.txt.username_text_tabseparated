@@ -1,0 +1,9 @@
+Explicit|7..11|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond|Temporal.Synchronous||||||Inh|Null|Null|Null||12..84|Inh|Null|Null|Null|||||||7..11|DEFAULT|
+Explicit|356..362|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||334..355|Inh|Null|Null|Null||363..386|Inh|Null|Null|Null|||||||356..362|DEFAULT|
+Explicit|387..391|Wr|Comm|Null|Null|||Temporal.Synchronous||||||427..522|Inh|Null|Null|Null||392..426|Inh|Null|Null|Null|||||||387..391|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||334..386|Inh|Null|Null|Null||387..522|Inh|Null|Null|Null|||||||387|DEFAULT|
+Explicit|556..562|Wr|Comm|Null|Null|||Expansion.Conjunction||||||334..522|Inh|Null|Null|Null||523..555|Inh|Null|Null|Null|||||||556..562|DEFAULT|
+Explicit|721..725|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||598..657|Inh|Null|Null|Null||690..720|Inh|Null|Null|Null|||||||721..725|DEFAULT|
+Explicit|793..796|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||773..792|Inh|Null|Null|Null||797..857|Inh|Null|Null|Null|||||||793..796|DEFAULT|
+Explicit|858..860|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||773..857|Inh|Null|Null|Null||861..893|Inh|Null|Null|Null|||||||858..860|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||861..893|Inh|Null|Null|Null||926..955|Inh|Null|Null|Null|||||||926|DEFAULT|

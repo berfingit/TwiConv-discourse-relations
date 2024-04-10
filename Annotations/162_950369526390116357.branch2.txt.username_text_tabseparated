@@ -1,0 +1,4 @@
+Explicit|197..202|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||257..312|Inh|Null|Null|Null||203..256|Inh|Null|Null|Null|||||||197..202|DEFAULT|
+Implicit||Wr|Comm|Null|Null||or|Expansion.Disjunction||||||257..312|Inh|Null|Null|Null||315..349|Inh|Null|Null|Null|||||||315|DEFAULT|
+Hypophora||||||||||||||315..349||||||382..433|||||||||||382|DEFAULT|
+Explicit|414..417|Wr|Comm|Null|Null|||Expansion.Conjunction||||||382..413|Inh|Null|Null|Null||418..433|Inh|Null|Null|Null|||||||414..417|DEFAULT|

@@ -1,0 +1,4 @@
+Explicit|148..153|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||136..147|Inh|Null|Null|Null||154..165|Inh|Null|Null|Null|||||||148..153|DEFAULT|
+Explicit|214..217|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||201..213|Inh|Null|Null|Null||218..246|Inh|Null|Null|Null|||||||214..217|DEFAULT|
+Hypophora||||||||||||||282..295||||||398..415|||||||||||398|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||402..415|Inh|Null|Null|Null||464..491|Inh|Null|Null|Null|||||||464|DEFAULT|

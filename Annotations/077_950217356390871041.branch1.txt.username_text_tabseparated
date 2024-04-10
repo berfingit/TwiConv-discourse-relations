@@ -1,0 +1,4 @@
+Explicit|101..104|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||8..31|Inh|Null|Null|Null||81..100|Inh|Null|Null|Null|||||||101..104|DEFAULT|
+Hypophora||||||||||||||109..130||||||156..178|||||||||||156|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||204..221|Inh|Null|Null|Null||222..231|Inh|Null|Null|Null|||||||222|DEFAULT|
+Explicit|263..268|Wr|Comm|Null|Null|||Temporal.Asynchronous.Succession||||||293..316|Inh|Null|Null|Null||269..292|Inh|Null|Null|Null|||||||263..268|DEFAULT|

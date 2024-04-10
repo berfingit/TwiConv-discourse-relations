@@ -1,0 +1,4 @@
+Implicit||Wr|Comm|Null|Null||after|Temporal.Asynchronous.Succession||||||13..94|Inh|Null|Null|Null||95..174|Inh|Null|Null|Null|||||||95|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||95..174|Inh|Null|Null|Null||175..198|Inh|Null|Null|Null|||||||175|DEFAULT|
+Hypophora||||||||||||||253..297||||||335..413|||||||||||335|DEFAULT|
+Implicit||Wr|Comm|Null|Null||rather|Expansion.Substitution.Arg2-as-subst||||||335..356|Inh|Null|Null|Null||357..413|Inh|Null|Null|Null|||||||357|DEFAULT|

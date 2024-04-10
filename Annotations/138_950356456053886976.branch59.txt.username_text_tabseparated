@@ -1,0 +1,15 @@
+Implicit||Wr|Comm|Null|Null||since|Contingency.Cause.Reason||||||14..52|Inh|Null|Null|Null||53..75|Inh|Null|Null|Null|||||||53|DEFAULT|
+Explicit|76..79|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||53..75|Inh|Null|Null|Null||80..187|Inh|Null|Null|Null|||||||76..79|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||76..187|Inh|Null|Null|Null||188..217|Inh|Null|Null|Null|||||||188|DEFAULT|
+Explicit|218..225|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||188..217|Inh|Null|Null|Null||226..252|Inh|Null|Null|Null|||||||218..225|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||304..357|Inh|Null|Null|Null||358..400|Inh|Null|Null|Null|||||||358|DEFAULT|
+Explicit|555..559|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond||||||465..497|Inh|Null|Null|Null||560..575|Inh|Null|Null|Null|||||||555..559|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||555..575|Inh|Null|Null|Null||613..664|Inh|Null|Null|Null|||||||613|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||613..664|Inh|Null|Null|Null||665..743|Inh|Null|Null|Null|||||||665|DEFAULT|
+Hypophora||||||||||||||665..743||||||800..917|||||||||||800|DEFAULT|
+Implicit||Wr|Comm|Null|Null||However|Comparison.Contrast||||||800..875|Inh|Null|Null|Null||876..917|Inh|Null|Null|Null|||||||876|DEFAULT|
+Implicit||Wr|Comm|Null|Null||further|Expansion.Conjunction||||||978..1012|Inh|Null|Null|Null||1013..1054|Inh|Null|Null|Null|||||||1013|DEFAULT|
+Explicit|1055..1059|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1078..1110|Inh|Null|Null|Null||1060..1076|Inh|Null|Null|Null|||||||1055..1059|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||978..1054|Inh|Null|Null|Null||1055..1151|Inh|Null|Null|Null|||||||1055|DEFAULT|
+Explicit|1112..1114|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||1055..1111|Inh|Null|Null|Null||1115..1151|Inh|Null|Null|Null|||||||1112..1114|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||978..1151|Inh|Null|Null|Null||1152..1212|Inh|Null|Null|Null|||||||1152|DEFAULT|

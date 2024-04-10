@@ -1,0 +1,6 @@
+Explicit|50..53|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||15..49|Inh|Null|Null|Null||54..90|Inh|Null|Null|Null|||||||50..53|DEFAULT|
+Hypophora||||||||||||||193..217||||||266..278|||||||||||266|DEFAULT|
+Implicit||Wr|Comm|Null|Null||on the whole|Expansion.Level-of-detail.Arg1-as-detail||||||444..517|Inh|Null|Null|Null||518..541|Inh|Null|Null|Null|||||||518|DEFAULT|
+Explicit|729..731|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||695..728|Inh|Null|Null|Null||732..808|Inh|Null|Null|Null|||||||729..731|DEFAULT|
+Implicit||Wr|Comm|Null|Null||instead|Expansion.Substitution.Arg2-as-subst||||||695..808|Inh|Null|Null|Null||809..879|Inh|Null|Null|Null|||||||809|DEFAULT|
+Explicit|964..976|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||977..996|Inh|Null|Null|Null||809..879|Inh|Null|Null|Null|||||||964..976|DEFAULT|

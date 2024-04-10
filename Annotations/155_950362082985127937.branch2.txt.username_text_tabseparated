@@ -1,0 +1,13 @@
+Explicit|222..224|Wr|Comm|Null|Null|||Expansion.Disjunction||||||189..221|Inh|Null|Null|Null||225..256|Inh|Null|Null|Null|||||||222..224|DEFAULT|
+Hypophora||||||||||||||189..256||||||285..432|||||||||||285|DEFAULT|
+Explicit|304..307|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||285..303|Inh|Null|Null|Null||308..342|Inh|Null|Null|Null|||||||304..307|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||285..342|Inh|Null|Null|Null||343..375|Inh|Null|Null|Null|||||||343|DEFAULT|
+Implicit||Wr|Comm|Null|Null||specfically|Expansion.Level-of-detail.Arg2-as-detail||||||343..375|Inh|Null|Null|Null||376..432|Inh|Null|Null|Null|||||||376|DEFAULT|
+Explicit|419..422|Wr|Comm|Null|Null|||Expansion.Conjunction||||||404..418|Inh|Null|Null|Null||423..432|Inh|Null|Null|Null|||||||419..422|DEFAULT|
+Implicit||Wr|Comm|Null|Null||indeed|Expansion.Equivalence||||||285..432|Inh|Null|Null|Null||461..493|Inh|Null|Null|Null|||||||461|DEFAULT|
+Hypophora||||||||||||||494..521||||||550..641|||||||||||550|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||550..578|Inh|Null|Null|Null||579..641|Inh|Null|Null|Null|||||||579|DEFAULT|
+Explicit|689..693|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||642..688|Inh|Null|Null|Null||694..719|Inh|Null|Null|Null|||||||689..693|DEFAULT|
+Explicit|720..726|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||579..641|Inh|Null|Null|Null||642..719|Inh|Null|Null|Null|||||||720..726|DEFAULT|
+Explicit|728..730|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||754..768|Inh|Null|Null|Null||731..753|Inh|Null|Null|Null|||||||728..730|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||642..727|Inh|Null|Null|Null||728..768|Inh|Null|Null|Null|||||||728|DEFAULT|

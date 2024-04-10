@@ -1,0 +1,4 @@
+Hypophora||||||||||||||86..129||||||152..173|||||||||||152|DEFAULT|
+Explicit|234..237|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||196..233|Inh|Null|Null|Null||238..260|Inh|Null|Null|Null|||||||234..237|DEFAULT|
+Explicit|238..242|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||196..233|Inh|Null|Null|Null||243..260|Inh|Null|Null|Null|||||||238..242|DEFAULT|
+Implicit||Wr|Comm|Null|Null||otherwise|Contingency.Negative-condition.Arg1-as-negcond||||||243..260|Inh|Null|Null|Null||283..312|Inh|Null|Null|Null|||||||283|DEFAULT|

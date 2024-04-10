@@ -1,0 +1,8 @@
+Explicit|530..533|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||385..415|Inh|Null|Null|Null||494..529|Inh|Null|Null|Null|||||||530..533|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||730..745|Inh|Null|Null|Null||824..891|Inh|Null|Null|Null|||||||824|DEFAULT|
+Hypophora||||||||||||||730..745||||||824..891|||||||||||824|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||824..869|Inh|Null|Null|Null||870..891|Inh|Null|Null|Null|||||||870|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||975..996|Inh|Null|Null|Null||997..1038|Inh|Null|Null|Null|||||||997|DEFAULT|
+Explicit|1018..1024|Wr|Comm|Null|Null|||Expansion.Equivalence||||||997..1017|Inh|Null|Null|Null||1025..1038|Inh|Null|Null|Null|||||||1018..1024|DEFAULT|
+Explicit|1121..1126|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||975..1038|Inh|Null|Null|Null||1127..1148|Inh|Null|Null|Null|||||||1121..1126|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||1121..1148|Inh|Null|Null|Null||1149..1164|Inh|Null|Null|Null|||||||1149|DEFAULT|

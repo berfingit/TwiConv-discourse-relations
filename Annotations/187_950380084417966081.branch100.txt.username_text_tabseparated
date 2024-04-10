@@ -1,0 +1,15 @@
+Implicit||Wr|Comm|Null|Null||since|Contingency.Cause+Belief.Reason+Belief||||||15..41|Inh|Null|Null|Null||42..189|Inh|Null|Null|Null|||||||42|DEFAULT|
+Explicit|100..103|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||42..99|Inh|Null|Null|Null||104..189|Inh|Null|Null|Null|||||||100..103|DEFAULT|
+Explicit|190..194|Wr|Comm|Null|Null|||Expansion.Conjunction||||||127..189|Inh|Null|Null|Null||195..248|Inh|Null|Null|Null|||||||190..194|DEFAULT|
+Explicit|212..214|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||195..211|Inh|Null|Null|Null||215..248|Inh|Null|Null|Null|||||||212..214|DEFAULT|
+Explicit|273..277|Wr|Comm|Null|Null|||Expansion.Conjunction||||||195..248|Inh|Null|Null|Null||278..301|Inh|Null|Null|Null|||||||273..277|DEFAULT|
+Hypophora||||||||||||||278..301||||||333..374|||||||||||333|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||414..430|Inh|Null|Null|Null||473..511|Inh|Null|Null|Null|||||||473|DEFAULT|
+Explicit|551..553;593..597|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||598..615|Inh|Null|Null|Null||554..592|Inh|Null|Null|Null|||||||551..553|DEFAULT|
+Explicit|769..772|Wr|Comm|Null|Null|||Expansion.Conjunction||||||753..768|Inh|Null|Null|Null||773..788|Inh|Null|Null|Null|||||||769..772|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||753..788|Inh|Null|Null|Null||789..818|Inh|Null|Null|Null|||||||789|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||789..818|Inh|Null|Null|Null||819..835|Inh|Null|Null|Null|||||||819|DEFAULT|
+Explicit|858..861|Wr|Comm|Null|Null|||Expansion.Conjunction||||||836..857|Inh|Null|Null|Null||862..883|Inh|Null|Null|Null|||||||858..861|DEFAULT|
+Explicit|884..887|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||836..883|Inh|Null|Null|Null||888..920|Inh|Null|Null|Null|||||||884..887|DEFAULT|
+Explicit|900..903|Wr|Comm|Null|Null|||Comparison.Contrast||||||888..899|Inh|Null|Null|Null||904..920|Inh|Null|Null|Null|||||||900..903|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||904..920|Inh|Null|Null|Null||921..941|Inh|Null|Null|Null|||||||921|DEFAULT|

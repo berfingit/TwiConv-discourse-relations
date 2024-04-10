@@ -1,0 +1,10 @@
+Implicit||Wr|Comm|Null|Null||and|Comparison.Contrast||||||199..228|Inh|Null|Null|Null||229..263|Inh|Null|Null|Null|||||||229|DEFAULT|
+Explicit|306..309|Wr|Comm|Null|Null|||Expansion.Conjunction||||||264..305|Inh|Null|Null|Null||310..364|Inh|Null|Null|Null|||||||306..309|DEFAULT|
+Explicit|310..317|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond||||||335..364|Inh|Null|Null|Null||318..334|Inh|Null|Null|Null|||||||310..317|DEFAULT|
+Explicit|421..424|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||393..414|Inh|Null|Null|Null||425..470|Inh|Null|Null|Null|||||||421..424|DEFAULT|
+Explicit|623..625|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||508..619|Inh|Null|Null|Null||626..666|Inh|Null|Null|Null|||||||623..625|DEFAULT|
+Explicit|708..710|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||738..767|Inh|Null|Null|Null||711..737|Inh|Null|Null|Null|||||||708..710|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||670..707|Inh|Null|Null|Null||708..767|Inh|Null|Null|Null|||||||708|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause+SpeechAct.Reason+SpeechAct||||||852..864|Inh|Null|Null|Null||867..897|Inh|Null|Null|Null|||||||867|DEFAULT|
+Explicit|883..886|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||867..882|Inh|Null|Null|Null||887..897|Inh|Null|Null|Null|||||||883..886|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||926..978|Inh|Null|Null|Null||979..991|Inh|Null|Null|Null|||||||979|DEFAULT|

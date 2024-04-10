@@ -1,0 +1,8 @@
+Implicit||Wr|Comm|Null|Null||then|Contingency.Cause.Result|Contingency.Condition.Arg1-as-cond|||||131..167|Inh|Null|Null|Null||182..190|Inh|Null|Null|Null|||||||182|DEFAULT|
+Explicit|216..219|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||205..215|Inh|Null|Null|Null||220..250|Inh|Null|Null|Null|||||||216..219|DEFAULT|
+Explicit|252..255|Wr|Comm|Null|Null|||Expansion.Conjunction||||||220..251|Inh|Null|Null|Null||256..295|Inh|Null|Null|Null|||||||252..255|DEFAULT|
+Hypophora||||||||||||||310..336||||||351..353|||||||||||351|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||447..487|Inh|Null|Null|Null||488..529|Inh|Null|Null|Null|||||||488|DEFAULT|
+Explicit|544..548|Wr|Comm|Null|Null|||Temporal.Synchronous||||||558..582|Inh|Null|Null|Null||549..557|Inh|Null|Null|Null|||||||544..548|DEFAULT|
+Explicit|583..585|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Result+Belief||||||544..582|Inh|Null|Null|Null||586..668|Inh|Null|Null|Null|||||||583..585|DEFAULT|
+Explicit|606..609|Wr|Comm|Null|Null|||Expansion.Conjunction|Temporal.Asynchronous.Precedence|||||586..605|Inh|Null|Null|Null||610..668|Inh|Null|Null|Null|||||||606..609|DEFAULT|

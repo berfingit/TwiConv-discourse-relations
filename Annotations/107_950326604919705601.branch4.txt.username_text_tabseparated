@@ -1,0 +1,12 @@
+Hypophora||||||||||||||116..188||||||233..323|||||||||||233|DEFAULT|
+Explicit|463..469|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||233..323|Inh|Null|Null|Null||418..462|Inh|Null|Null|Null|||||||463..469|DEFAULT|
+Explicit|598..601|Wr|Comm|Null|Null|||Expansion.Conjunction||||||531..597|Inh|Null|Null|Null||602..636|Inh|Null|Null|Null|||||||598..601|DEFAULT|
+Explicit|639..643|Wr|Comm|Null|Null|||Temporal.Synchronous||||||694..720|Inh|Null|Null|Null||644..693|Inh|Null|Null|Null|||||||639..643|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||838..850|Inh|Null|Null|Null||851..868|Inh|Null|Null|Null|||||||851|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||851..868|Inh|Null|Null|Null||939..1000|Inh|Null|Null|Null|||||||939|DEFAULT|
+Explicit|982..984|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg1-as-negcond||||||939..981|Inh|Null|Null|Null||985..997|Inh|Null|Null|Null|||||||982..984|DEFAULT|
+Explicit|1130..1133|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1102..1129|Inh|Null|Null|Null||1134..1183|Inh|Null|Null|Null|||||||1130..1133|DEFAULT|
+Explicit|1148..1151|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1134..1147|Inh|Null|Null|Null||1152..1183|Inh|Null|Null|Null|||||||1148..1151|DEFAULT|
+Explicit|1223..1229|Wr|Comm|Null|Null|||Temporal.Synchronous||||||1198..1222|Inh|Null|Null|Null||1230..1237|Inh|Null|Null|Null|||||||1223..1229|DEFAULT|
+Explicit|1286..1289|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1184..1285|Inh|Null|Null|Null||1290..1309|Inh|Null|Null|Null|||||||1286..1289|DEFAULT|
+Implicit||Wr|Comm|Null|Null||still|Comparison.Concession.Arg2-as-denier||||||1184..1309|Inh|Null|Null|Null||1310..1328|Inh|Null|Null|Null|||||||1310|DEFAULT|

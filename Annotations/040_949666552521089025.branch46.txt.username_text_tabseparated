@@ -1,0 +1,14 @@
+Explicit|504..508|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond||||||294..503|Inh|Null|Null|Null||509..544|Inh|Null|Null|Null|||||||504..508|DEFAULT|
+Explicit|620..627|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||705..752|Inh|Null|Null|Null||628..691|Inh|Null|Null|Null|||||||620..627|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||821..853|Inh|Null|Null|Null||854..889|Inh|Null|Null|Null|||||||854|DEFAULT|
+Explicit|915..918|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||890..914|Inh|Null|Null|Null||919..942|Inh|Null|Null|Null|||||||915..918|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||943..962|Inh|Null|Null|Null||963..1084|Inh|Null|Null|Null|||||||963|DEFAULT|
+Explicit|1059..1066|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||963..1053|Inh|Null|Null|Null||1067..1084|Inh|Null|Null|Null|||||||1059..1066|DEFAULT|
+Explicit|1155..1161|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||943..1084|Inh|Null|Null|Null||1136..1154|Inh|Null|Null|Null|||||||1155..1161|DEFAULT|
+Explicit|1278..1281|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1241..1276|Inh|Null|Null|Null||1282..1381|Inh|Null|Null|Null|||||||1278..1281|DEFAULT|
+Explicit|1465..1470|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||1507..1645|Inh|Null|Null|Null||1471..1506|Inh|Null|Null|Null|||||||1465..1470|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||1551..1605|Inh|Null|Null|Null||1606..1646|Inh|Null|Null|Null|||||||1606|DEFAULT|
+Implicit||Wr|Comm|Null|Null||instead|Expansion.Substitution.Arg2-as-subst||||||1647..1672|Inh|Null|Null|Null||1673..1718|Inh|Null|Null|Null|||||||1673|DEFAULT|
+Explicit|1770..1773|Wr|Comm|Null|Null|||Expansion.Level-of-detail.Arg2-as-detail||||||1647..1718|Inh|Null|Null|Null||1778..1886|Inh|Null|Null|Null|||||||1770..1773|DEFAULT|
+Explicit|1774..1777|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1647..1718|Inh|Null|Null|Null||1778..1886|Inh|Null|Null|Null|||||||1774..1777|DEFAULT|
+Explicit|1946..1950|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1774..1886|Inh|Null|Null|Null||1951..1964|Inh|Null|Null|Null|||||||1946..1950|DEFAULT|

@@ -1,0 +1,5 @@
+Explicit|280..286|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||181..219|Inh|Null|Null|Null||254..279|Inh|Null|Null|Null|||||||280..286|DEFAULT|
+Explicit|288..291|Wr|Comm|Null|Null|||Expansion.Conjunction||||||254..287|Inh|Null|Null|Null||292..310|Inh|Null|Null|Null|||||||288..291|DEFAULT|
+Explicit|311..314|Wr|Comm|Null|Null|||Undecided||||||254..287|Inh|Null|Null|Null||292..310|Inh|Null|Null|Null|||||||311..314|DEFAULT|
+Explicit|405..407|Wr|Comm|Null|Null|||Expansion.Disjunction||||||374..404|Inh|Null|Null|Null||408..450|Inh|Null|Null|Null|||||||405..407|DEFAULT|
+Hypophora||||||||||||||374..446||||||491..496|||||||||||491|DEFAULT|
