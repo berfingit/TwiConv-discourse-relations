@@ -1,0 +1,3 @@
+Implicit||Wr|Comm|Null|Null||however|Comparison.Contrast||||||16..46|Inh|Null|Null|Null||47..67|Inh|Null|Null|Null|||||||47|DEFAULT|
+Explicit|289..292|Wr|Comm|Null|Null|||Expansion.Conjunction||||||272..288|Inh|Null|Null|Null||293..326|Inh|Null|Null|Null|||||||289..292|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||357..473|Inh|Null|Null|Null||474..550|Inh|Null|Null|Null|||||||474|DEFAULT|

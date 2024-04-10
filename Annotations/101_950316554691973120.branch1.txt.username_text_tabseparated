@@ -1,0 +1,5 @@
+Explicit|37..39|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||15..36|Inh|Null|Null|Null||40..144|Inh|Null|Null|Null|||||||37..39|DEFAULT|
+Explicit|89..94|Wr|Comm|Null|Null|||Temporal.Synchronous||||||40..88|Inh|Null|Null|Null||95..144|Inh|Null|Null|Null|||||||89..94|DEFAULT|
+Explicit|113..116|Wr|Comm|Null|Null|||Expansion.Conjunction||||||95..112|Inh|Null|Null|Null||117..144|Inh|Null|Null|Null|||||||113..116|DEFAULT|
+Explicit|246..249|Wr|Comm|Null|Null|||Expansion.Conjunction||||||216..245|Inh|Null|Null|Null||250..277|Inh|Null|Null|Null|||||||246..249|DEFAULT|
+Explicit|481..488|Wr|Comm|Null|Null|||Contingency.Condition+SpeechAct||||||421..475|Inh|Null|Null|Null||489..514|Inh|Null|Null|Null|||||||481..488|DEFAULT|

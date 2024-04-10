@@ -1,0 +1,15 @@
+Explicit|69..72|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||15..68|Inh|Null|Null|Null||73..122|Inh|Null|Null|Null|||||||69..72|DEFAULT|
+Explicit|123..125|Wr|Comm|Null|Null|||Undecided||||||15..122|Inh|Null|Null|Null||126..154|Inh|Null|Null|Null|||||||123..125|DEFAULT|
+Implicit||Wr|Comm|Null|Null||before that|Temporal.Asynchronous.Succession||||||73..122|Inh|Null|Null|Null||197..283|Inh|Null|Null|Null|||||||197|DEFAULT|
+Explicit|214..216|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||244..283|Inh|Null|Null|Null||217..243|Inh|Null|Null|Null|||||||214..216|DEFAULT|
+Explicit|284..286|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||323..360|Inh|Null|Null|Null||287..322|Inh|Null|Null|Null|||||||284..286|DEFAULT|
+Implicit||Wr|Comm|Null|Null||then|Temporal.Asynchronous.Precedence||||||197..283|Inh|Null|Null|Null||284..383|Inh|Null|Null|Null|||||||284|DEFAULT|
+Explicit|361..368|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||323..360|Inh|Null|Null|Null||369..383|Inh|Null|Null|Null|||||||361..368|DEFAULT|
+Explicit|689..691|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||720..781|Inh|Null|Null|Null||692..719|Inh|Null|Null|Null|||||||689..691|DEFAULT|
+Explicit|794..796|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||784..793|Inh|Null|Null|Null||797..812|Inh|Null|Null|Null|||||||794..796|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||857..874|Inh|Null|Null|Null||906..949|Inh|Null|Null|Null|||||||906|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||906..949|Inh|Null|Null|Null||950..981|Inh|Null|Null|Null|||||||950|DEFAULT|
+Explicit|1043..1046|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1018..1042|Inh|Null|Null|Null||1047..1062|Inh|Null|Null|Null|||||||1043..1046|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||1018..1062|Inh|Null|Null|Null||1105..1139|Inh|Null|Null|Null|||||||1105|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||1105..1139|Inh|Null|Null|Null||1140..1295|Inh|Null|Null|Null|||||||1140|DEFAULT|
+Explicit|1251..1258|Wr|Comm|Null|Null|||Contingency.Purpose.Arg2-as-goal||||||1140..1250|Inh|Null|Null|Null||1259..1295|Inh|Null|Null|Null|||||||1251..1258|DEFAULT|

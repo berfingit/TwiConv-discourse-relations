@@ -1,0 +1,5 @@
+Implicit||Wr|Comm|Null|Null||in order|Contingency.Purpose.Arg2-as-goal||||||9..31|Inh|Null|Null|Null||32..145|Inh|Null|Null|Null|||||||32|DEFAULT|
+Explicit|68..71|Wr|Comm|Null|Null|||Expansion.Conjunction||||||32..67|Inh|Null|Null|Null||72..145|Inh|Null|Null|Null|||||||68..71|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||9..145|Inh|Null|Null|Null||146..189|Inh|Null|Null|Null|||||||146|DEFAULT|
+Explicit|235..242|Wr|Comm|Null|Null|||Temporal.Synchronous|Contingency.Condition.Arg2-as-cond|||||284..329|Inh|Null|Null|Null||243..283|Inh|Null|Null|Null|||||||235..242|DEFAULT|
+Explicit|330..333|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||216..329|Inh|Null|Null|Null||334..362|Inh|Null|Null|Null|||||||330..333|DEFAULT|

@@ -1,0 +1,3 @@
+Explicit|62..64|Wr|Comm|Null|Null|||Comparison.Similarity||||||10..60|Inh|Null|Null|Null||65..191|Inh|Null|Null|Null|||||||62..64|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||60..191|Inh|Null|Null|Null||192..288|Inh|Null|Null|Null|||||||192|DEFAULT|
+Explicit|412..415|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||351..411|Inh|Null|Null|Null||416..461|Inh|Null|Null|Null|||||||412..415|DEFAULT|

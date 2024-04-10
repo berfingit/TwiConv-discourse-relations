@@ -1,0 +1,10 @@
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||323..388|Inh|Null|Null|Null||389..405|Inh|Null|Null|Null|||||||389|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause+SpeechAct.Reason+SpeechAct||||||445..459|Inh|Null|Null|Null||461..527|Inh|Null|Null|Null|||||||461|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||654..684|Inh|Null|Null|Null||685..768|Inh|Null|Null|Null|||||||685|DEFAULT|
+Explicit|741..743|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||685..740|Inh|Null|Null|Null||744..768|Inh|Null|Null|Null|||||||741..743|DEFAULT|
+Implicit||Wr|Comm|Null|Null||even if|Comparison.Concession.Arg1-as-denier||||||685..768|Inh|Null|Null|Null||769..818|Inh|Null|Null|Null|||||||769|DEFAULT|
+Implicit||Wr|Comm|Null|Null||more specifically|Expansion.Level-of-detail.Arg2-as-detail||||||930..961|Inh|Null|Null|Null||962..1021|Inh|Null|Null|Null|||||||962|DEFAULT|
+Explicit|1049..1052|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||1023..1048|Inh|Null|Null|Null||1053..1153|Inh|Null|Null|Null|||||||1049..1052|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||1053..1153|Inh|Null|Null|Null||1155..1167|Inh|Null|Null|Null|||||||1155|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||1168..1192|Inh|Null|Null|Null||1193..1207|Inh|Null|Null|Null|||||||1193|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||1317..1325|Inh|Null|Null|Null||1326..1359|Inh|Null|Null|Null|||||||1326|DEFAULT|

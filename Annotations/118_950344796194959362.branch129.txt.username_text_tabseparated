@@ -1,0 +1,8 @@
+Explicit|33..36|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief||||||12..32|Inh|Null|Null|Null||37..62|Inh|Null|Null|Null|||||||33..36|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in other words|Expansion.Equivalence||||||120..203|Inh|Null|Null|Null||204..242|Inh|Null|Null|Null|||||||204|DEFAULT|
+Explicit|319..323|Wr|Comm|Null|Null|||Temporal.Synchronous||||||287..318|Inh|Null|Null|Null||324..373|Inh|Null|Null|Null|||||||319..323|DEFAULT|
+Explicit|466..469|Wr|Comm|Null|Null|||Expansion.Conjunction||||||412..465|Inh|Null|Null|Null||470..486|Inh|Null|Null|Null|||||||466..469|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||596..602|Inh|Null|Null|Null||603..663|Inh|Null|Null|Null|||||||603|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||603..663;702..717|Inh|Null|Null|Null||726..801|Inh|Null|Null|Null|||||||726|DEFAULT|
+Explicit|912..915|Wr|Comm|Null|Null|||Expansion.Conjunction||||||840..911|Inh|Null|Null|Null||916..928|Inh|Null|Null|Null|||||||912..915|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Level-of-detail.Arg2-as-detail||||||840..928|Inh|Null|Null|Null||929..981|Inh|Null|Null|Null|||||||929|DEFAULT|

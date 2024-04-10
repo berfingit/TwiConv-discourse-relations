@@ -1,0 +1,4 @@
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||26..93|Inh|Null|Null|Null||99..228|Inh|Null|Null|Null|||||||99|DEFAULT|
+Explicit|150..154|Wr|Comm|Null|Null|||Temporal.Synchronous||||||132..149|Inh|Null|Null|Null||155..171|Inh|Null|Null|Null|||||||150..154|DEFAULT|
+Explicit|205..207|Wr|Comm|Null|Null|||Temporal.Synchronous||||||187..204|Inh|Null|Null|Null||208..228|Inh|Null|Null|Null|||||||205..207|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||99..228|Inh|Null|Null|Null||229..259|Inh|Null|Null|Null|||||||229|DEFAULT|

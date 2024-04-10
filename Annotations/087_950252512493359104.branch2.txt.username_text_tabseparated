@@ -1,0 +1,2 @@
+Explicit|172..176|Wr|Comm|Null|Null|||Temporal.Synchronous||||||127..171|Inh|Null|Null|Null||177..204|Inh|Null|Null|Null|||||||172..176|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||127..204|Inh|Null|Null|Null||205..275|Inh|Null|Null|Null|||||||205|DEFAULT|

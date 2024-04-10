@@ -1,0 +1,6 @@
+Explicit|21..25|Wr|Comm|Null|Null|||Temporal.Synchronous||||||10..20|Inh|Null|Null|Null||26..43|Inh|Null|Null|Null|||||||21..25|DEFAULT|
+Explicit|45..47|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||10..44|Inh|Null|Null|Null||48..139|Inh|Null|Null|Null|||||||45..47|DEFAULT|
+Explicit|103..114|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||48..102|Inh|Null|Null|Null||115..139|Inh|Null|Null|Null|||||||103..114|DEFAULT|
+Explicit|174..176|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond||||||177..310|Inh|Null|Null|Null||310..313|Inh|Null|Null|Null|||||||174..176|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||442..458|Inh|Null|Null|Null||351..441|Inh|Null|Null|Null|||||||351|DEFAULT|
+Implicit||Wr|Comm|Null|Null||while|Comparison.Contrast||||||351..420|Inh|Null|Null|Null||421..441|Inh|Null|Null|Null|||||||421|DEFAULT|

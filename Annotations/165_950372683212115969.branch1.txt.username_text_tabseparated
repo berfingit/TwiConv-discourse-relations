@@ -1,0 +1,6 @@
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||277..284|Inh|Null|Null|Null||285..304|Inh|Null|Null|Null|||||||285|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||285..304|Inh|Null|Null|Null||305..332|Inh|Null|Null|Null|||||||305|DEFAULT|
+Explicit|549..551|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||536..548|Inh|Null|Null|Null||552..580|Inh|Null|Null|Null|||||||549..551|DEFAULT|
+Explicit|581..584|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||536..580|Inh|Null|Null|Null||585..594|Inh|Null|Null|Null|||||||581..584|DEFAULT|
+Explicit|674..676|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg2-as-negcond||||||633..673|Inh|Null|Null|Null||677..702|Inh|Null|Null|Null|||||||674..676|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Level-of-detail.Arg2-as-detail||||||633..703|Inh|Null|Null|Null||704..733|Inh|Null|Null|Null|||||||704|DEFAULT|

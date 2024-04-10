@@ -1,0 +1,11 @@
+Explicit|48..50|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief||||||9..47|Inh|Null|Null|Null||51..79|Inh|Null|Null|Null|||||||48..50|DEFAULT|
+Explicit|80..86|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||20..79|Inh|Null|Null|Null||87..120|Inh|Null|Null|Null|||||||80..86|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||87..120|Inh|Null|Null|Null||121..165|Inh|Null|Null|Null|||||||121|DEFAULT|
+Implicit||Wr|Comm|Null|Null||though|Comparison.Concession.Arg2-as-denier||||||121..165|Inh|Null|Null|Null||166..190|Inh|Null|Null|Null|||||||166|DEFAULT|
+Explicit|294..297|Wr|Comm|Null|Null|||Expansion.Conjunction||||||275..293|Inh|Null|Null|Null||302..330|Inh|Null|Null|Null|||||||294..297|DEFAULT|
+Explicit|298..301|Wr|Comm|Null|Null|||Expansion.Conjunction||||||275..293|Inh|Null|Null|Null||302..330|Inh|Null|Null|Null|||||||298..301|DEFAULT|
+Implicit||Wr|Comm|Null|Null||hence|Contingency.Cause.Result||||||377..420|Inh|Null|Null|Null||421..449|Inh|Null|Null|Null|||||||421|DEFAULT|
+Explicit|514..517|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||490..513|Inh|Null|Null|Null||524..536|Inh|Null|Null|Null|||||||514..517|DEFAULT|
+Explicit|518..523|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||494..513|Inh|Null|Null|Null||524..536|Inh|Null|Null|Null|||||||518..523|DEFAULT|
+Explicit|537..540|Wr|Comm|Null|Null|||Expansion.Conjunction||||||490..536|Inh|Null|Null|Null||541..594|Inh|Null|Null|Null|||||||537..540|DEFAULT|
+Explicit|545..547|Wr|Comm|Null|Null|||Contingency.Condition+SpeechAct||||||541..544|Inh|Null|Null|Null||548..559|Inh|Null|Null|Null|||||||545..547|DEFAULT|

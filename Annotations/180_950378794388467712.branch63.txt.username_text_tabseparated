@@ -1,0 +1,2 @@
+Explicit|188..193|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||147..187|Inh|Null|Null|Null||194..213|Inh|Null|Null|Null|||||||188..193|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||147..213|Inh|Null|Null|Null||221..253|Inh|Null|Null|Null|||||||221|DEFAULT|

@@ -1,0 +1,3 @@
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||16..99|Inh|Null|Null|Null||100..191|Inh|Null|Null|Null|||||||100|DEFAULT|
+Explicit|142..145|Wr|Comm|Null|Null|||Expansion.Conjunction||||||100..141|Inh|Null|Null|Null||146..191|Inh|Null|Null|Null|||||||142..145|DEFAULT|
+Explicit|287..290|Wr|Comm|Null|Null|||Undecided||||||264..286|Inh|Null|Null|Null||291..304|Inh|Null|Null|Null|||||||287..290|DEFAULT|

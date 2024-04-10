@@ -1,0 +1,4 @@
+Explicit|378..381|Wr|Comm|Null|Null|||Expansion.Conjunction||||||326..344|Inh|Null|Null|Null||382..433|Inh|Null|Null|Null|||||||378..381|DEFAULT|
+Explicit|413..418|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg2-as-negcond||||||382..412|Inh|Null|Null|Null||419..433|Inh|Null|Null|Null|||||||413..418|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||382..433|Inh|Null|Null|Null||467..489|Inh|Null|Null|Null|||||||467|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in fact|Expansion.Level-of-detail.Arg2-as-detail||||||523..574|Inh|Null|Null|Null||575..608|Inh|Null|Null|Null|||||||575|DEFAULT|

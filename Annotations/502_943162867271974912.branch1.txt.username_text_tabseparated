@@ -1,0 +1,2 @@
+Explicit|129..133|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond|Temporal.Synchronous|||||103..128|Inh|Null|Null|Null||134..155|Inh|Null|Null|Null|||||||129..133|DEFAULT|
+Explicit|207..213|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||8..21|Inh|Null|Null|Null||175..206|Inh|Null|Null|Null|||||||207..213|DEFAULT|

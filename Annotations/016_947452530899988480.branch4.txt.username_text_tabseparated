@@ -1,0 +1,7 @@
+Explicit|61..63|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||16..60|Inh|Null|Null|Null||64..148|Inh|Null|Null|Null|||||||61..63|DEFAULT|
+Explicit|100..106|Wr|Comm|Null|Null|||Temporal.Synchronous||||||64..99|Inh|Null|Null|Null||107..148|Inh|Null|Null|Null|||||||100..106|DEFAULT|
+Implicit||Wr|Comm|Null|Null||also|Expansion.Conjunction||||||210..337|Inh|Null|Null|Null||338..414|Inh|Null|Null|Null|||||||338|DEFAULT|
+Implicit||Wr|Comm|Null|Null||while|Temporal.Synchronous||||||338..414|Inh|Null|Null|Null||416..434|Inh|Null|Null|Null|||||||416|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||436..470|Inh|Null|Null|Null||471..490|Inh|Null|Null|Null|||||||471|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||542..555|Inh|Null|Null|Null||558..603|Inh|Null|Null|Null|||||||558|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Contrast||||||558..603|Inh|Null|Null|Null||605..627|Inh|Null|Null|Null|||||||605|DEFAULT|

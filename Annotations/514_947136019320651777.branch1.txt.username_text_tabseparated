@@ -1,0 +1,6 @@
+Explicit|108..111|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||64..107|Inh|Null|Null|Null||112..184|Inh|Null|Null|Null|||||||108..111|DEFAULT|
+Explicit|136..138|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||112..135|Inh|Null|Null|Null||139..190|Inh|Null|Null|Null|||||||136..138|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Conjunction||||||12..184|Inh|Null|Null|Null||266..303|Inh|Null|Null|Null|||||||266|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||353..388|Inh|Null|Null|Null||389..489;525..641|Inh|Null|Null|Null|||||||389|DEFAULT|
+Explicit|593..596|Wr|Comm|Null|Null|||Expansion.Conjunction||||||525..592|Inh|Null|Null|Null||597..641|Inh|Null|Null|Null|||||||593..596|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in order|Contingency.Purpose.Arg2-as-goal||||||597..621|Inh|Null|Null|Null||625..641|Inh|Null|Null|Null|||||||625|DEFAULT|

@@ -1,0 +1,8 @@
+Explicit|547..550|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||502..545|Inh|Null|Null|Null||551..573|Inh|Null|Null|Null|||||||547..550|DEFAULT|
+Explicit|656..662|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||574..636|Inh|Null|Null|Null||637..655|Inh|Null|Null|Null|||||||656..662|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in other words|Expansion.Equivalence||||||722..773|Inh|Null|Null|Null||774..796|Inh|Null|Null|Null|||||||774|DEFAULT|
+Explicit|797..800|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||774..796|Inh|Null|Null|Null||801..814|Inh|Null|Null|Null|||||||797..800|DEFAULT|
+Explicit|887..890|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||878..885|Inh|Null|Null|Null||891..958|Inh|Null|Null|Null|||||||887..890|DEFAULT|
+Explicit|1042..1045|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1016..1041|Inh|Null|Null|Null||1046..1093|Inh|Null|Null|Null|||||||1042..1045|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in general|Expansion.Level-of-detail.Arg1-as-detail||||||1046..1093|Inh|Null|Null|Null||1094..1118|Inh|Null|Null|Null|||||||1094|DEFAULT|
+Explicit|1241..1244|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1218..1240|Inh|Null|Null|Null||1245..1268|Inh|Null|Null|Null|||||||1241..1244|DEFAULT|

@@ -1,0 +1,4 @@
+Implicit||Wr|Comm|Null|Null||inasmuch as|Contingency.Cause+Belief.Reason+Belief||||||97..127|Inh|Null|Null|Null||128..200|Inh|Null|Null|Null|||||||128|DEFAULT|
+Explicit|351..357|Wr|Comm|Null|Null|||Temporal.Asynchronous.Precedence||||||315..350|Inh|Null|Null|Null||358..375|Inh|Null|Null|Null|||||||351..357|DEFAULT|
+Implicit||Wr|Comm|Null|Null||indeed|Expansion.Equivalence||||||271..375|Inh|Null|Null|Null||419..452|Inh|Null|Null|Null|||||||419|DEFAULT|
+Implicit||Wr|Comm|Null|Null||so|Contingency.Cause.Result||||||419..452|Inh|Null|Null|Null||454..489|Inh|Null|Null|Null|||||||454|DEFAULT|

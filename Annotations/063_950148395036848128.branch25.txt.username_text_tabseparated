@@ -1,0 +1,4 @@
+Implicit||Wr|Comm|Null|Null||although|Comparison.Concession.Arg1-as-denier||||||47..91|Inh|Null|Null|Null||92..128|Inh|Null|Null|Null|||||||92|DEFAULT|
+Implicit||Wr|Comm|Null|Null||however|Comparison.Contrast||||||217..275|Inh|Null|Null|Null||276..298|Inh|Null|Null|Null|||||||276|DEFAULT|
+Explicit|601..604|Wr|Comm|Null|Null|||Expansion.Conjunction||||||564..600|Inh|Null|Null|Null||605..629|Inh|Null|Null|Null|||||||601..604|DEFAULT|
+Implicit||Wr|Comm|Null|Null||therefore|Contingency.Cause.Result||||||573..629|Inh|Null|Null|Null||630..668|Inh|Null|Null|Null|||||||630|DEFAULT|

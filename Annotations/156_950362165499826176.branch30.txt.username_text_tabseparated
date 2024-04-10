@@ -1,0 +1,5 @@
+Explicit|22..24|Wr|Comm|Null|Null|||Expansion.Disjunction||||||16..21|Inh|Null|Null|Null||25..33|Inh|Null|Null|Null|||||||22..24|DEFAULT|
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause.Reason||||||88..93|Inh|Null|Null|Null||95..125|Inh|Null|Null|Null|||||||95|DEFAULT|
+Explicit|244..248|Wr|Comm|Null|Null|||Contingency.Cause.Result|Contingency.Condition.Arg1-as-cond|||||165..173|Inh|Null|Null|Null||218..243|Inh|Null|Null|Null|||||||244..248|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||218..249|Inh|Null|Null|Null||251..313|Inh|Null|Null|Null|||||||251|DEFAULT|
+Explicit|387..392|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg2-as-negcond||||||363..386|Inh|Null|Null|Null||393..414|Inh|Null|Null|Null|||||||387..392|DEFAULT|

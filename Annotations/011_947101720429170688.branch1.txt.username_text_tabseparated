@@ -1,0 +1,14 @@
+Explicit|121..123|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||182..276|Inh|Null|Null|Null||124..181|Inh|Null|Null|Null|||||||121..123|DEFAULT|
+Explicit|349..351|Wr|Comm|Null|Null|||Contingency.Cause.Reason||||||337..348|Inh|Null|Null|Null||352..375|Inh|Null|Null|Null|||||||349..351|DEFAULT|
+Implicit||Wr|Comm|Null|Null||meanwhile|Temporal.Synchronous|Comparison.Contrast|||||401..463|Inh|Null|Null|Null||489..545|Inh|Null|Null|Null|||||||489|DEFAULT|
+Explicit|571..574|Wr|Comm|Null|Null|||Expansion.Conjunction||||||489..545|Inh|Null|Null|Null||575..643|Inh|Null|Null|Null|||||||571..574|DEFAULT|
+Explicit|675..678|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||669..674|Inh|Null|Null|Null||679..785|Inh|Null|Null|Null|||||||675..678|DEFAULT|
+Implicit||Wr|Comm|Null|Null||while|Temporal.Synchronous||||||679..785|Inh|Null|Null|Null||786..834|Inh|Null|Null|Null|||||||786|DEFAULT|
+Explicit|835..838|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||786..834|Inh|Null|Null|Null||839..873|Inh|Null|Null|Null|||||||835..838|DEFAULT|
+Explicit|852..855|Wr|Comm|Null|Null|||Expansion.Conjunction||||||839..851|Inh|Null|Null|Null||856..873|Inh|Null|Null|Null|||||||852..855|DEFAULT|
+Explicit|1089..1092|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1029..1087|Inh|Null|Null|Null||1093..1154|Inh|Null|Null|Null|||||||1089..1092|DEFAULT|
+Explicit|1241..1244|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1204..1239|Inh|Null|Null|Null||1245..1264|Inh|Null|Null|Null|||||||1241..1244|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||1204..1240|Inh|Null|Null|Null||1265..1326|Inh|Null|Null|Null|||||||1265|DEFAULT|
+Explicit|1327..1330|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||1265..1326|Inh|Null|Null|Null||1331..1404|Inh|Null|Null|Null|||||||1327..1330|DEFAULT|
+Implicit||Wr|Comm|Null|Null||instead|Expansion.Substitution.Arg2-as-subst||||||1331..1405|Inh|Null|Null|Null||1406..1484|Inh|Null|Null|Null|||||||1406|DEFAULT|
+Explicit|1570..1573|Wr|Comm|Null|Null|||Expansion.Conjunction||||||1510..1569|Inh|Null|Null|Null||1574..1606|Inh|Null|Null|Null|||||||1570..1573|DEFAULT|

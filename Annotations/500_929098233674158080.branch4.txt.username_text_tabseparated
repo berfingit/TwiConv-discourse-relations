@@ -1,0 +1,2 @@
+Explicit|37..40|Wr|Comm|Null|Null|||Expansion.Conjunction||||||12..30|Inh|Null|Null|Null||41..96|Inh|Null|Null|Null|||||||37..40|DEFAULT|
+Explicit|254..258|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond|Temporal.Synchronous|||||270..290|Inh|Null|Null|Null||259..269|Inh|Null|Null|Null|||||||254..258|DEFAULT|

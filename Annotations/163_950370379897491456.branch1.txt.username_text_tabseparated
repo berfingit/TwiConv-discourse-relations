@@ -1,0 +1,3 @@
+Implicit||Wr|Comm|Null|Null||because|Contingency.Cause+SpeechAct.Reason+SpeechAct||||||8..64|Inh|Null|Null|Null||67..78|Inh|Null|Null|Null|||||||67|DEFAULT|
+Explicit|73..75|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||67..72|Inh|Null|Null|Null||76..78|Inh|Null|Null|Null|||||||73..75|DEFAULT|
+Explicit|228..231|Wr|Comm|Null|Null|||Expansion.Conjunction||||||165..196|Inh|Null|Null|Null||232..249|Inh|Null|Null|Null|||||||228..231|DEFAULT|

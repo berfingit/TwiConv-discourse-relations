@@ -1,0 +1,6 @@
+Implicit||Wr|Comm|Null|Null||by|Contingency.Purpose.Arg1-as-goal|Expansion.Manner.Arg2-as-manner|||||23..159|Inh|Null|Null|Null||160..248|Inh|Null|Null|Null|||||||160|DEFAULT|
+Explicit|201..204|Wr|Comm|Null|Null|||Expansion.Conjunction||||||167..200|Inh|Null|Null|Null||205..248|Inh|Null|Null|Null|||||||201..204|DEFAULT|
+Implicit||Wr|Comm|Null|Null||then|Contingency.Cause.Result||||||711..745|Inh|Null|Null|Null||781..825|Inh|Null|Null|Null|||||||781|DEFAULT|
+Explicit|800..803|Wr|Comm|Null|Null|||Expansion.Conjunction||||||781..799|Inh|Null|Null|Null||804..825|Inh|Null|Null|Null|||||||800..803|DEFAULT|
+Explicit|873..876|Wr|Comm|Null|Null|||Expansion.Conjunction||||||864..872|Inh|Null|Null|Null||877..907|Inh|Null|Null|Null|||||||873..876|DEFAULT|
+Explicit|1014..1016|Wr|Comm|Null|Null|||Contingency.Condition.Arg1-as-cond||||||1061..1064|Inh|Null|Null|Null||1017..1061|Inh|Null|Null|Null|||||||1014..1016|DEFAULT|

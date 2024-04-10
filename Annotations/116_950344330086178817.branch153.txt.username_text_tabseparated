@@ -1,0 +1,9 @@
+Explicit|188..191|Wr|Comm|Null|Null|||Expansion.Conjunction||||||133..187|Inh|Null|Null|Null||192..254|Inh|Null|Null|Null|||||||188..191|DEFAULT|
+Explicit|286..288|Wr|Comm|Null|Null|||Expansion.Disjunction||||||133..254|Inh|Null|Null|Null||289..310|Inh|Null|Null|Null|||||||286..288|DEFAULT|
+Implicit||Wr|Comm|Null|Null||since|Contingency.Cause.Reason||||||289..310|Inh|Null|Null|Null||311..374|Inh|Null|Null|Null|||||||311|DEFAULT|
+Explicit|420..430|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||488..502|Inh|Null|Null|Null||431..487|Inh|Null|Null|Null|||||||420..430|DEFAULT|
+Implicit||Wr|Comm|Null|Null||and|Expansion.Level-of-detail.Arg2-as-detail||||||555..621|Inh|Null|Null|Null||622..649|Inh|Null|Null|Null|||||||622|DEFAULT|
+Explicit|631..636|Wr|Comm|Null|Null|||Expansion.Conjunction||||||622..630|Inh|Null|Null|Null||637..648|Inh|Null|Null|Null|||||||631..636|DEFAULT|
+Explicit|650..654|Wr|Comm|Null|Null|||Expansion.Conjunction||||||555..649|Inh|Null|Null|Null||656..774|Inh|Null|Null|Null|||||||650..654|DEFAULT|
+Explicit|757..759|Wr|Comm|Null|Null|||Expansion.Conjunction||||||747..756|Inh|Null|Null|Null||760..774|Inh|Null|Null|Null|||||||757..759|DEFAULT|
+Explicit|818..823|Wr|Comm|Null|Null|||Expansion.Conjunction||||||777..817|Inh|Null|Null|Null||824..845|Inh|Null|Null|Null|||||||818..823|DEFAULT|

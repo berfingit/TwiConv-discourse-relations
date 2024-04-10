@@ -1,0 +1,15 @@
+Explicit|73..75;104..108|Wr|Comm|Null|Null|||Contingency.Negative-condition.Arg2-as-negcond||||||109..129|Inh|Null|Null|Null||76..103|Inh|Null|Null|Null|||||||73..75|DEFAULT|
+Implicit||Wr|Comm|Null|Null||in fact|Expansion.Level-of-detail.Arg2-as-detail||||||11..72|Inh|Null|Null|Null||73..129|Inh|Null|Null|Null|||||||73|DEFAULT|
+Implicit||Wr|Comm|Null|Null||although|Comparison.Concession.Arg2-as-denier||||||155..210|Inh|Null|Null|Null||211..244|Inh|Null|Null|Null|||||||211|DEFAULT|
+Explicit|246..249|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||211..244|Inh|Null|Null|Null||250..291|Inh|Null|Null|Null|||||||246..249|DEFAULT|
+Explicit|380..382|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||338..379|Inh|Null|Null|Null||383..408|Inh|Null|Null|Null|||||||380..382|DEFAULT|
+Implicit||Wr|Comm|Null|Null||since|Contingency.Cause.Reason||||||338..408|Inh|Null|Null|Null||409..610|Inh|Null|Null|Null|||||||409|DEFAULT|
+Explicit|462..464|Wr|Comm|Null|Null|||Contingency.Cause.Result||||||409..460|Inh|Null|Null|Null||465..522|Inh|Null|Null|Null|||||||462..464|DEFAULT|
+Explicit|524..527|Wr|Comm|Null|Null|||Expansion.Conjunction||||||409..522|Inh|Null|Null|Null||528..610|Inh|Null|Null|Null|||||||524..527|DEFAULT|
+Explicit|651..658|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||707..767|Inh|Null|Null|Null||659..697|Inh|Null|Null|Null|||||||651..658|DEFAULT|
+Explicit|699..705|Wr|Comm|Null|Null|||Comparison.Concession.Arg1-as-denier||||||707..767|Inh|Null|Null|Null||659..698|Inh|Null|Null|Null|||||||699..705|DEFAULT|
+Implicit||Wr|Comm|Null|Null||but|Comparison.Concession.Arg2-as-denier||||||707..767|Inh|Null|Null|Null||768..849|Inh|Null|Null|Null|||||||768|DEFAULT|
+Explicit|781..783|Wr|Comm|Null|Null|||Contingency.Condition.Arg2-as-cond||||||822..849|Inh|Null|Null|Null||784..820|Inh|Null|Null|Null|||||||781..783|DEFAULT|
+Explicit|850..857|Wr|Comm|Null|Null|||Comparison.Concession.Arg2-as-denier||||||768..849|Inh|Null|Null|Null||859..921|Inh|Null|Null|Null|||||||850..857|DEFAULT|
+Explicit|1010..1015|Wr|Comm|Null|Null|||Contingency.Cause+Belief.Reason+Belief||||||967..1009|Inh|Null|Null|Null||1016..1181|Inh|Null|Null|Null|||||||1010..1015|DEFAULT|
+Explicit|1182..1185|Wr|Comm|Null|Null|||Expansion.Conjunction||||||967..1181|Inh|Null|Null|Null||1186..1240|Inh|Null|Null|Null|||||||1182..1185|DEFAULT|
